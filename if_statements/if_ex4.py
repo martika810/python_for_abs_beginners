@@ -1,5 +1,4 @@
-# Write a program to count total number of notes in given amount
-# 200,100,50,20,10,5
+# Write a program to count total number of notes in given amount 200,100,50,20,10,5
 
 amount = int(input("please enter an amount: "))
 notes200 = notes100 = notes50 = notes20 = notes10= notes5 = 0

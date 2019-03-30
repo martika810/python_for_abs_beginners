@@ -1,4 +1,4 @@
-#Write a program to input week number and print week day
+# Write a program to input week number and print week day
 # Example: 1 -> Monday
 #          2 -> Tuesday
 week_number = int(input('Please enter a week number: '))
